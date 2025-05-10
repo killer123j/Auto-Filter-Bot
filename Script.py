@@ -120,7 +120,7 @@ I can't find the <b>{}</b> in my database! 🥲
 
 You can activate any premium plan and then you can get exclusive features.
 
-- INR 10 for pre day -
+- INR 50 for pre day -
 
 Basic premium features:
 Ad free experience
@@ -132,7 +132,7 @@ Admins support
 And more...
 
 Support:
-@Hansaka_Anuhas"""
+@KILLERxVIPP"""
 
     USER_COMMAND_TXT = """<b>Here is bot user commands 👇
 
@@ -148,7 +148,7 @@ Support:
 
 - ᴛʜɪꜱ ʙᴏᴛ ɪꜱ ᴀɴ ᴏᴘᴇɴ ꜱᴏᴜʀᴄᴇ ᴘʀᴏᴊᴇᴄᴛ.
 
-- ꜱᴏᴜʀᴄᴇ - <a href=https://github.com/HA-Bots/Auto-Filter-Bot>ʜᴇʀᴇ</a>
+- ꜱᴏᴜʀᴄᴇ - <a href=https://t.me/+BSkLj7TCrZ1kYjZl>ʜᴇʀᴇ</a>
 
-- ᴅᴇᴠʟᴏᴘᴇʀ - @HA_Bots"""
+- ᴅᴇᴠʟᴏᴘᴇʀ - @KILLERxVIPP"""
 
