@@ -31,7 +31,7 @@ API_HASH = environ.get('API_HASH', '6e455b91ca68d245e378aeb903afd001')
 if len(API_HASH) == 0:
     logger.error('API_HASH is missing, exiting now')
     exit()
-BOT_TOKEN = environ.get('BOT_TOKEN', '')
+BOT_TOKEN = environ.get('BOT_TOKEN', '7385784567:AAEd3StCfK3PFUpo9bu2VoJIIoBTAVcEy68')
 if len(BOT_TOKEN) == 0:
     logger.error('BOT_TOKEN is missing, exiting now')
     exit()
@@ -80,11 +80,11 @@ DATA_DATABASE_URL = environ.get('DATA_DATABASE_URL', "mongodb+srv://gogogaming74
 if len(DATA_DATABASE_URL) == 0:
     logger.error('DATA_DATABASE_URL is missing, exiting now')
     exit()
-FILES_DATABASE_URL = environ.get('FILES_DATABASE_URL', "")
+FILES_DATABASE_URL = environ.get('FILES_DATABASE_URL', "mongodb+srv://gogogaming7428:aLmlRWaqhL9c0SuR@cluster0.bk0fzz3.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
 if len(FILES_DATABASE_URL) == 0:
     logger.error('FILES_DATABASE_URL is missing, exiting now')
     exit()
-SECOND_FILES_DATABASE_URL = environ.get('SECOND_FILES_DATABASE_URL', "")
+SECOND_FILES_DATABASE_URL = environ.get('SECOND_FILES_DATABASE_URL', "mongodb+srv://gogogaming7428:aLmlRWaqhL9c0SuR@cluster0.bk0fzz3.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
 if len(SECOND_FILES_DATABASE_URL) == 0:
     logger.info('SECOND_FILES_DATABASE_URL is empty')
 DATABASE_NAME = environ.get('DATABASE_NAME', "Cluster0")
