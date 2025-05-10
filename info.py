@@ -127,13 +127,13 @@ SHORTLINK = is_enabled('SHORTLINK', True)
 
 # for stream
 IS_STREAM = is_enabled('IS_STREAM', True)
-BIN_CHANNEL = environ.get("BIN_CHANNEL", "-1002250988240")
+BIN_CHANNEL = environ.get("BIN_CHANNEL", "-1002248710429")
 if len(BIN_CHANNEL) == 0:
     logger.error('BIN_CHANNEL is missing, exiting now')
     exit()
 else:
     BIN_CHANNEL = int(BIN_CHANNEL)
-URL = environ.get("URL", "https://t.me/+xaOU50lGa2kzNzY1")
+URL = environ.get("URL", "https://t.me/+Pe2AbI_QDaBmOGU1")
 if len(URL) == 0:
     logger.error('URL is missing, exiting now')
     exit()
